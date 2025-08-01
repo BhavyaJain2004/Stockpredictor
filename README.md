@@ -60,16 +60,20 @@ Here are some sample graphs and the corresponding terminal output.
 
 ### INFY Stock
 
-This shows the terminal output for INFY stock data:
-![INFY Stock Prediction Data](uploaded:image_f32fce.png-48dba91f-39ee-41a6-a5bd-f0b67b83b885)
+This shows the terminal output for INFY stock data :
+<img width="527" height="178" alt="Screenshot from 2025-08-01 12-27-15" src="https://github.com/user-attachments/assets/a67f9f1d-75ab-4591-b707-eb220ec1e64a" />
+
 
 This graph visualizes the actual vs. predicted prices for INFY:
-![INFY Stock Price Prediction](uploaded:image_f32faf.png-94924a3c-3aeb-42a0-9b29-12656e745444)
+<img width="1119" height="573" alt="Screenshot from 2025-08-01 12-27-04" src="https://github.com/user-attachments/assets/28c860f8-b06c-45bc-a69d-44499049ad99" />
+
 
 ### TCS Stock
 
 This shows the terminal output for TCS stock data:
-![TCS Stock Prediction Data](uploaded:image_f337ac.png-ca7953e9-c341-46bf-b3e5-a59726ab7ff9)
+<img width="535" height="202" alt="Screenshot from 2025-08-01 12-31-02" src="https://github.com/user-attachments/assets/084a582f-d4c2-4fe3-b687-ec85ff59fe96" />
+
 
 This graph visualizes the actual vs. predicted prices for TCS:
-![TCS Stock Price Prediction](uploaded:Screenshot from 2025-08-01 12-30-55.png-5cdb70a4-1f5b-4db1-9ce6-ab9f014f810e)
+<img width="1141" height="583" alt="Screenshot from 2025-08-01 12-30-55" src="https://github.com/user-attachments/assets/4b3b7e5f-cc6c-426c-95f4-0fd52050052b" />
+
