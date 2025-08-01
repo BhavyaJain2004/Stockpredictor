@@ -59,21 +59,30 @@ When the script runs, the terminal will display the predicted price and a compar
 Here are some sample graphs and the corresponding terminal output.
 
 ### INFY Stock
+<br>
 
 This shows the terminal output for INFY stock data :
+<br>
 <img width="527" height="178" alt="Screenshot from 2025-08-01 12-27-15" src="https://github.com/user-attachments/assets/a67f9f1d-75ab-4591-b707-eb220ec1e64a" />
 
+<br>
 
 This graph visualizes the actual vs. predicted prices for INFY:
+<br>
 <img width="1119" height="573" alt="Screenshot from 2025-08-01 12-27-04" src="https://github.com/user-attachments/assets/28c860f8-b06c-45bc-a69d-44499049ad99" />
 
+<br>
 
 ### TCS Stock
+<br>
 
 This shows the terminal output for TCS stock data:
+<br>
 <img width="535" height="202" alt="Screenshot from 2025-08-01 12-31-02" src="https://github.com/user-attachments/assets/084a582f-d4c2-4fe3-b687-ec85ff59fe96" />
-
+<br>
 
 This graph visualizes the actual vs. predicted prices for TCS:
+<br>
 <img width="1141" height="583" alt="Screenshot from 2025-08-01 12-30-55" src="https://github.com/user-attachments/assets/4b3b7e5f-cc6c-426c-95f4-0fd52050052b" />
+<br>
 
